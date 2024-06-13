@@ -1,5 +1,6 @@
 # Ubershader
 This shader was made for **Onward** by **Virus** and **Argon**. <br>
+You are free to use it for Onward Custom Maps, for other projects please reach out to us. <br>
 If you encounter problems please, *DM* **virus_vr** or **argon_vr** on *Discord*
 
 ## Main
